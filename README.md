@@ -21,9 +21,9 @@ This project demonstrates basic DOM (Document Object Model) manipulation using J
 ## Technologies Used
 
 
-HTML5
+HTML
 
-CSS3
+CSS
 
 JavaScript
 
