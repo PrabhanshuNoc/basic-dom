@@ -14,7 +14,6 @@ This project demonstrates basic DOM (Document Object Model) manipulation using J
 - View Books: The book list is displayed by default.
 - Add a Book: Use the input field and 'Add' button to add a new book to the list.
 - Delete a Book: Click the 'delete' link next to each book to remove it.
-- Navigate Tabs: Click on "About" or "Contact" to view their respective content.
 
 
 
